@@ -1,7 +1,3 @@
-Here's a comprehensive README file for your **LunaLotto** project with embedded images, videos, and icons for better presentation. You can save this content as `README.md` in your project repository.
-
----
-
 # 🌙 **LunaLotto & LunaCasino**
 
 ![LunaLotto Logo](https://lunalotto.io/assets/logo-CB0Gq63Z.svg)
